@@ -1,8 +1,8 @@
 .carousel-inner,.carousel-item{
 	object-fit: cover;
 	object-position: center;
-	height: 90vh;
-	width: 75%;
+	height: 70vh;
+	width: 85%;
 	overflow: hidden;
 	
 	}
